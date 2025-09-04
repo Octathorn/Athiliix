@@ -124,7 +124,7 @@ export const ExploreProgram = () => {
                   className={`flex-shrink-0 w-full md:w-1/2 lg:w-1/3 xl:w-1/4 p-6 rounded-2xl transition-all duration-300 ${
                     isHighlighted
                       ? "bg-[#EE5A00] text-white"
-                      : "bg-gray-900 text-white hover:bg-gray-800"
+                      : "bg-simple-dark text-white hover:bg-gray-800"
                   }`}
                 >
                   <div className="mb-4">
