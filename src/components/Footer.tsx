@@ -1,7 +1,7 @@
 import logo from "../assets/logo.svg";
 import Instagram from "../assets/Instagram.svg";
 import Twitter from "../assets/Twitter.svg";
-import Facebook from "../assets/Facebook.svg";
+import Facebook from "../assets/FaceBook.svg";
 import CopyRight from "../assets/CopyRight.svg";
 
 export const Footer = () => {
